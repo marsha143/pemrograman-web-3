@@ -6,7 +6,7 @@ import HalamanJsx from './HalamanJsx.jsx'
 import Button from './Button.jsx'
 import Input from './Input.jsx'
 import NamaLengkap from './NamaLengkap.jsx'
-import LoginForm from './TugasPertemuan5/LoginForm.jsx'
+import LoginForm from './TugasPertemuan4/LoginForm.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
